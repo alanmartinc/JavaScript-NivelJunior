@@ -139,6 +139,7 @@ if (nombre == "lucas") {
     console.log("El nombre no coincide");
 }
 
+// Historia de Cofla 1 - Soluciones
 dineroCofla = prompt("cuanto dinero tienes cofla?");
 
 dineroCofla = parseInt(dineroCofla);
